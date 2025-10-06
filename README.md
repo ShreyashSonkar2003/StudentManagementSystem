@@ -31,5 +31,7 @@ Welcome to the Simple Student Roster, a streamlined command-line utility for man
 I'm happy to discuss this project or any potential collaborations\!
 
 📧 **Email:** shreyashsonkar123k@gmail.com
+
 💼 **LinkedIn:** [linkedin.com/in/shreyash-sonkar19](https://www.google.com/search?q=https://www.linkedin.com/in/shreyash-sonkar19)
+
 🐱 **GitHub:** [github.com/ShreyashSonkar2003](https://www.google.com/search?q=https://github.com/ShreyashSonkar2003)
